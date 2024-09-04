@@ -1,0 +1,168 @@
+Dados recebidos: Array
+(
+    [cpf] => 99900011122
+    [rg] => 
+    [nome] => ivan santos silva fontes
+    [nascimento] => 2000-04-28
+    [sexo] => 1
+    [fator_rh] => A+
+    [email] => contato@omega2.com.br
+    [nome_mae] => Lídia Oliveira
+    [nome_pai] => gilmar
+    [cep] => 4430518
+    [rua] => Rua dos Pinheiros
+    [numero] => 397
+    [complemento] => Case E
+    [bairro] => Jardim Botânico
+    [cidade] => itajuipe
+    [estado] => BA
+    [telefone] => (73) 9 9113-8982
+)
+
+Dados recebidos: Array
+(
+    [cpf] => 99900011122
+    [rg] => 
+    [nome] => ivan santos silva fontes
+    [nascimento] => 2000-04-28
+    [sexo] => 1
+    [fator_rh] => A+
+    [email] => contato@omega2.com.br
+    [nome_mae] => Lídia Oliveira
+    [nome_pai] => gilmar
+    [cep] => 4430518
+    [rua] => Rua dos Pinheiros
+    [numero] => 397
+    [complemento] => Case E
+    [bairro] => Jardim Botânico
+    [cidade] => itajuipe
+    [estado] => BA
+    [telefone] => (73) 9 9113-8982
+)
+
+Dados recebidos: Array
+(
+    [cpf] => 99900011122
+    [rg] => 
+    [nome] => ivan santos silva fontes
+    [nascimento] => 2000-04-28
+    [sexo] => 1
+    [fator_rh] => A+
+    [email] => contato@omega2.com.br
+    [nome_mae] => Lídia Oliveira
+    [nome_pai] => gilmar
+    [cep] => 4430518
+    [rua] => Rua dos Pinheiros
+    [numero] => 397
+    [complemento] => Case E
+    [bairro] => Jardim Botânico
+    [cidade] => itajuipe
+    [estado] => BA
+    [telefone] => (73) 9 9113-8982
+)
+
+Dados recebidos: Array
+(
+    [cpf] => 99900011122
+    [rg] => 999000111
+    [nome] => ivan santos fontes
+    [nascimento] => 2001-06-28
+    [sexo] => 1
+    [fator_rh] => B+
+    [email] => eduardo.oliveira@example.com
+    [nome_mae] => rosania
+    [nome_pai] => Guilherme Oliveira
+    [cep] => 4430518
+    [rua] => Rua das Palmeiras
+    [numero] => 397
+    [complemento] => Case E
+    [bairro] => Jardim Botânico
+    [cidade] => itajuipe
+    [estado] => BA
+    [telefone] => (73) 9 9113-8982
+)
+
+Dados recebidos: Array
+(
+    [cpf] => 99900011122
+    [rg] => 999000111
+    [nome] => ivan santos fontes
+    [nascimento] => 2001-06-28
+    [sexo] => 1
+    [fator_rh] => B+
+    [email] => eduardo.oliveira@example.com
+    [nome_mae] => rosania
+    [nome_pai] => Guilherme Oliveira
+    [cep] => 4430518
+    [rua] => Rua das Palmeiras
+    [numero] => 395
+    [complemento] => Casa
+    [bairro] => Jardim Botânico
+    [cidade] => itajuipe
+    [estado] => BA
+    [telefone] => (73) 9 9113-8982
+)
+
+Dados recebidos: Array
+(
+    [cpf] => 99900011122
+    [rg] => 999000111
+    [nome] => ivan santos fontes
+    [nascimento] => 2001-06-28
+    [sexo] => 1
+    [fator_rh] => B+
+    [email] => eduardo.oliveira@example.com
+    [nome_mae] => rosania
+    [nome_pai] => Guilherme Oliveira
+    [cep] => 4430518
+    [rua] => Rua das Palmeiras
+    [numero] => 395
+    [complemento] => Casa
+    [bairro] => Jardim Botânico
+    [cidade] => itajuipe
+    [estado] => BA
+    [telefone] => 73991138425
+)
+
+Dados recebidos: Array
+(
+    [cpf] => 99900011122
+    [rg] => 999000111
+    [nome] => ivan santos fontes
+    [nascimento] => 2001-06-28
+    [sexo] => 1
+    [fator_rh] => B+
+    [email] => eduardo.oliveira@example.com
+    [nome_mae] => rosania
+    [nome_pai] => Guilherme Oliveira
+    [cep] => 4430518
+    [rua] => Rua das Palmeiras
+    [numero] => 395
+    [complemento] => Casa
+    [bairro] => Jardim Botânico
+    [cidade] => itajuipe
+    [estado] => BA
+    [telefone] => +55 (73) 991138982
+)
+
+Dados recebidos: Array
+(
+    [cpf] => 99900011122
+    [rg] => 999000111
+    [nome] => ivan santos fontes
+    [nascimento] => 2001-06-28
+    [sexo] => 1
+    [fator_rh] => B+
+    [email] => eduardo.oliveira@example.com
+    [nome_mae] => rosania
+    [nome_pai] => Guilherme Oliveira
+    [cep] => 4430518
+    [rua] => Rua das Palmeiras
+    [numero] => 395
+    [complemento] => Casa
+    [bairro] => Jardim Botânico
+    [cidade] => itajuipe
+    [estado] => BA
+    [telefone] => 73991138425
+)
+
